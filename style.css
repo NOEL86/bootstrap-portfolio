@@ -1,0 +1,42 @@
+
+h1{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: teal;
+    font-size: 24px;
+    line-height: 2.5;
+    margin-left: 25px;
+    padding-bottom: 15px;
+    border-bottom: gray solid 2px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-left: 25px;
+}
+
+.main{
+    width: 100%;
+    max-width: 960px;
+    height: 550px;
+    background-color: rgb(129, 144, 150);
+    margin-left: 150px;
+
+}
+#dogs{
+    width: 250px;
+    height: 200px;
+    margin-left: 25px;
+
+}
+
+.ppics{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+button{
+    background-color: teal;
+    margin-left: 25px;
+}
