@@ -1,5 +1,9 @@
+#right-title {
+    border-left: 1px solid gray;
+    padding-left: 45px;
+}
 
-h1{ 
+h1 { 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: teal;
     font-size: 24px;
@@ -9,13 +13,13 @@ h1{
     border-bottom: gray solid 2px;
 }
 
-p{
+p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
     margin-left: 25px;
 }
 
-.main{
+.main {
     width: 100%;
     max-width: 960px;
     height: 550px;
@@ -23,20 +27,33 @@ p{
     margin-left: 150px;
 
 }
-#dogs{
-    width: 250px;
+
+.card-img-top {
+    width: 190px;
+    height: 126px;
+    
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 25px;
+
+}
+
+#dogs {
+    width: 280px;
     height: 200px;
     margin-left: 25px;
 
 }
 
-.ppics{
-    width: 200px;
-    height: 200px;
-    position: relative;
+.form-control {
+    width: 75%;
 }
 
-button{
+button {
     background-color: teal;
     margin-left: 25px;
 }
+
+
